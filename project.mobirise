@@ -28,7 +28,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "publishPath": "file:///Users/winrodriguez/Desktop/ValdanTour"
+    "publishPath": "file:///Users/winrodriguez/Documents/GitHub/AgenciaValdanTours"
   },
   "pages": {
     "index.html": {
@@ -57,13 +57,13 @@
               "font-size": "25px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#2969b0",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
             },
@@ -77,16 +77,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#0b0b0b"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#1d1c1c!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#252424"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -102,16 +102,16 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#ffffff",
+            "bgColor": "#252424",
             "fontSize": "0.85",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "css": "'Oxygen', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -134,7 +134,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Valdan Tours</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Valdan Tours</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"+503 7512 8725\">!Llame ahora! </a></li>"
         },
         {
