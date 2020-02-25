@@ -135,7 +135,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Valdan Tours</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"+503 7512 8725\">!Llame ahora! </a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black\" href=\"+503 7512 8725\">!Llame ahora! </a></li>"
         },
         {
           "_tags": [
@@ -239,7 +239,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Somos turoperador de viajes a medida.",
+          "title": "Somos su agencia de viajes a la medida.",
           "meta": "Te ofrecemos lo más insólito, inaudito y siempre con la mejor calidad."
         },
         {
@@ -402,7 +402,7 @@
           },
           "title": "Facilitamos tu forma de viajar",
           "text": "<p>In posuere aliquam purus, eget viverra ex fermentum non. Aenean congue a turpis nec cursus. Morbi nec nisl quis lacus laoreet ultricies vel viverra neque.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Llámanos</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Llámenos</a>"
         },
         {
           "_tags": [
@@ -696,7 +696,7 @@
           "text4": "info@valdantours.com",
           "title1": "Categorias",
           "text5": "<li>Boletos Aereos</li><li>Hoteles</li><li>Renta de Autos</li><li>Asistencia de viajes</li><li>Cruceros</li><li>Paquetes Vacacionales</li>",
-          "text6": "<strong>Contacto</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Direción</strong><br>1234 Street Name<br>City, AA 99999",
+          "text6": "<strong>Contacto</strong><br>Email: info@valdantours.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Direción</strong><br>1234 Street Name<br>City, AA 99999",
           "form": {
             "title": "MESSAGE",
             "action": "win.rodriguez@gmail.com",
